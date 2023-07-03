@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.listeners
+package com.github.zhangchenghao011114.compileaccelerationplugin.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger
